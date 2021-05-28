@@ -29,8 +29,8 @@ function setup(){
     ball.shapeColor = rgb(255,255,255);
     //write code to add velocityX and velocityY
     
-    ball.velocityY=3;
-    ball.velocityX=3;
+    ball.velocityY=15;
+    ball.velocityX=7;
     ball.shapeColor=("white")
 
 }
